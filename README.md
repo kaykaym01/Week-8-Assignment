@@ -26,7 +26,9 @@ Vulnerability #2: __________________
 Vulnerability #1: Username Enumeration - username that exists in the database produces a bolded error message whereas username that does not has normal text
 <img src="week8_username.gif" width="800">
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Scripting (XSS)
+<img src="week8_xss.gif" width="800">
+
 
 
 ## Red
