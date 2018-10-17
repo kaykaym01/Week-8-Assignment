@@ -23,7 +23,8 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration - username that exists in the database produces a bolded error message whereas username that does not has normal text
+<img src="week8_username" width="800">
 
 Vulnerability #2: __________________
 
