@@ -31,7 +31,9 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)- The other sites don't recognize the IDOR unless you are logged in.
+<img src="week8_idor.gif" width="800">
+
 
 Vulnerability #2: __________________
 
