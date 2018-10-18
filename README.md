@@ -20,7 +20,9 @@ Vulnerability #1: SQL Injection (SQLi)
 <img src="week8_sqli.gif" width="800">
 
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hi-jacking
+<img src="week8_sessions.gif" width="800">
+
 
 
 ## Green
