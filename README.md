@@ -41,10 +41,12 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR)- The other sites don't
 <img src="week8_idor.gif" width="800">
 
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Request Forgery (CSRF)
+<img src="week8_finalexploit.gif" width="800">
 
 
 ## Notes
 
 Describe any challenges encountered while doing the work
+I had some trouble with creating a form for CSRF.
 
